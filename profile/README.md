@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Ansvisor: Let AI Search Work for Your Growth](ansvisor-banner.png)](https://www.ansvisor.com)
+
+</div>
+
 # Hi there, this is Ansvisor 👋
 
 Ansvisor is the **open-source, agentic AI Search Execution Platform** that helps brands understand, measure, and improve how they appear across AI answer engines. AI agents find opportunities and turn signals into prioritized actions; your team approves what goes live.
