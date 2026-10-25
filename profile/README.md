@@ -1,8 +1,10 @@
 # Hi there, this is Ansvisor 👋
 
-Ansvisor is an **open-source AI Search Intelligence Platform** that helps brands understand, measure, and improve how they appear across AI answer engines.
+Ansvisor is the **open-source, agentic AI Search Execution Platform** that helps brands understand, measure, and improve how they appear across AI answer engines. AI agents find opportunities and turn signals into prioritized actions; your team approves what goes live.
 
 Track AI visibility, prompts, citations, competitors, and AI-driven traffic across ChatGPT, Gemini, Claude, Perplexity, Google AI Overviews, Google AI Mode, Microsoft Copilot, Grok, and more.
+
+For marketing, SEO, and content teams, Ansvisor is an open-source AI marketing tool built for AI Search: AI agents for marketing do the groundwork, and people stay in charge of what ships.
 
 - ⭐ Explore our [main open-source project](https://github.com/ansvisor/ansvisor)
 - ☁️ Try [Ansvisor Cloud](https://www.ansvisor.com/)
@@ -32,7 +34,7 @@ Find new prompt opportunities, citation gaps, content opportunities, competitor 
 
 ### Act
 
-Turn AI Search intelligence into clear actions for content, SEO, AEO, GEO, citations, brand visibility, and growth.
+Turn AI Search data into prioritized actions for content, SEO, AEO, GEO, citations, brand visibility, and growth. Agents prepare the work; your team approves it.
 
 ---
 
@@ -40,6 +42,9 @@ Turn AI Search intelligence into clear actions for content, SEO, AEO, GEO, citat
 
 🔎 **Answer Engine Insights**<br>
 Understand how AI systems research, retrieve, cite, and answer questions related to your market.
+
+🗣️ **AI Brand Mentions & Sentiment**<br>
+See how AI platforms describe your brand: the exact quotes, sentiment, and position in each answer.
 
 💬 **Prompt Monitoring**<br>
 Track the prompts your audience uses and measure your visibility across AI answer engines.
@@ -59,14 +64,20 @@ Compare mentions, citations, visibility, sources, and opportunities against your
 📝 **Content Intelligence**<br>
 Discover content gaps and optimization opportunities based on real AI Search behavior.
 
+✍️ **Agentic Content Editor**<br>
+The Content Agent writes and fixes pages from your prompts, query fan-outs, and cited pages, and waits for your approval before anything changes.
+
+🗂️ **Content Plan & Workflows**<br>
+Plan, assign, and track every page your team creates for AI Search, from opportunity to published page.
+
 🛍️ **AI Shopping Analytics**<br>
 Understand how products and brands appear across AI-powered shopping and discovery experiences.
 
 🔍 **AI Visibility Site Audit**<br>
 Audit the technical and content signals that can influence AI discoverability and visibility.
 
-🤖 **AI Agents & Actions**<br>
-Turn signals and opportunities into actionable workflows for improving AI Search performance.
+🤖 **AI Agents for Marketing & Action Center**<br>
+Agents surface opportunities, draft briefs and content fixes, and turn signals into prioritized actions with an owner and a KPI. Nothing goes live without your approval.
 
 ---
 
@@ -101,7 +112,7 @@ You can:
 - Build on top of it
 - Or use Ansvisor Cloud without managing infrastructure
 
-Our goal is to make AI Search intelligence more **transparent, measurable, actionable, and accessible**.
+Our goal is to make AI Search work more **transparent, measurable, actionable, and accessible**.
 
 ---
 
@@ -161,7 +172,7 @@ _Transparency over black boxes._<br>
 _Outcomes over vanity metrics._<br>
 _Collaboration over closed innovation._
 
-We're building Ansvisor to help companies understand how they appear inside an AI-generated answer — and turn that intelligence into action.
+We're building Ansvisor to help companies understand how they appear inside an AI-generated answer, and to let agents and teams turn that into work that ships.
 
 ---
 
